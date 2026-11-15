@@ -13,6 +13,7 @@
   <img alt="version" src="https://img.shields.io/badge/version-1.0.0-25C9FF"/>
   <img alt="license" src="https://img.shields.io/badge/license-MIT-green"/>
   <img alt="platform" src="https://img.shields.io/badge/Android-6.0%2B%20(API23)-3DDC84"/>
+  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=JobinBai.Nestar"/>
 </p>
 
 手机端扫描附近 BLE 设备，把关注的设备加入「监控」，当目标进入设定信号范围时持续震动 + 通知提醒；适用于找钥匙/书包/接娃等场景。
