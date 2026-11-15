@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色主题：避免冷启动白屏闪烁，状态栏/窗口背景与 App 深蓝紫一致 -->
+    <style name="Theme.Nestar" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#141235</item>
+        <item name="android:windowBackground">#141235</item>
+    </style>
+</resources>

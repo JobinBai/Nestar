@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 本地 SDK 路径（机器相关）
+local.properties
+
+# 签名材料（切勿提交）
+keystore.properties
+*.keystore
+*.jks
+*.p12
+
+# 系统 / 杂项
+.DS_Store
+Thumbs.db
+*.log
