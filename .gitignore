@@ -23,3 +23,7 @@ keystore.properties
 .DS_Store
 Thumbs.db
 *.log
+
+# 临时截图
+pv_*.png
+preview*.png
